@@ -1,305 +1,157 @@
-<h1 align="center">Hi 👋, I'm Md. Raihan Rimon</h1>
-
-<h3 align="center">
-  Full-Stack Developer | Next.js • React • Node.js • TypeScript • MongoDB
-</h3>
-
-<p align="center">
-  <a href="https://github.com/rimon213311004">
-    <img src="https://komarev.com/ghpvc/?username=rimon213311004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/rimon213311004?tab=followers">
-    <img src="https://img.shields.io/github/followers/rimon213311004?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/rimon213311004?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-26%2B-blue?style=for-the-badge" alt="Repositories"/>
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a **Full-Stack Developer** passionate about building modern, scalable and real-world web applications.
-
-I enjoy transforming real-world problems into complete digital solutions — from **UI/UX and frontend development to backend architecture, databases, authentication, APIs and deployment**.
-
-* 🔭 Currently working on **FindBD**
-* 🌱 Currently learning **Cybersecurity & Modern Web Security**
-* 💻 Focused on **Next.js, React, Node.js, TypeScript & MongoDB**
-* ⚙️ Experienced with **REST APIs, JWT, Socket.IO, real-time systems and role-based authentication**
-* 🧠 Interested in **automation, scalable architecture and business-focused applications**
-* 📦 Building projects from **idea → development → deployment**
-* ⚡ Fun fact: **I enjoy turning real-world problems into full-stack web applications.**
-
----
-
-## 🧑‍💻 What I Build
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                    FULL-STACK DEVELOPMENT                 │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  🎨 Modern UI/UX           ⚙️ Backend Systems             │
-│  Next.js • React            Node.js • Express             │
-│                                                           │
-│  🗄️ Database               🔐 Authentication              │
-│  MongoDB • MySQL            JWT • RBAC • Zod              │
-│                                                           │
-│  ⚡ Real-Time Systems       🤖 Automation                  │
-│  Socket.IO                  Playwright • Python           │
-│                                                           │
-│  🚀 Deployment             📊 Business Applications       │
-│  Vercel • Render            SaaS • Management Systems     │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,php,cs,dotnet" />
-</p>
-
-### Programming & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,docker,postman,linux,firebase,figma" />
-</p>
-
-### Other Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=threejs,opencv,tensorflow" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimon213311004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimon213311004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimon213311004&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rimon213311004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimon213311004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rimon213311004/rimon213311004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🌌 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rimon213311004/rimon213311004/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-</p>
-
----
-
-# ⭐ Featured Projects
-
-## 🛡️ SafeCheck
-
-**Privacy-first personal safety, verification and incident reporting platform.**
-
-* 🔐 Privacy-focused architecture
-* 🧩 Shared validation contracts
-* ✅ Zod validation
-* 👤 Verification & review workflow
-* ⚖️ Appeal system
-* ⚡ Modern Next.js + Express architecture
-* 🗄️ MongoDB + Mongoose
-
-**Stack:** `Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Zod`
-
-🔗 [View Repository](https://github.com/rimon213311004/Safe)
-
----
-
-## 🔎 FindBD
-
-**Lost & Found platform with an intelligent matching system.**
-
-* 🔍 Lost & Found matching
-* 📍 Location-based matching
-* 🏷️ Category & brand matching
-* 🎨 Colour matching
-* 📅 Date & time matching
-* 🧠 Weighted 100-point matching algorithm
-* ⚡ Full-stack architecture
-
-**Stack:** `Next.js` `TypeScript` `Express` `MongoDB`
-
-🔗 [View Repository](https://github.com/rimon213311004/Findbd)
-
----
-
-## 🚌 TicketBus
-
-**Full-stack bus ticket booking and management platform.**
-
-* 🔎 Route search
-* 🚌 Bus/operator comparison
-* 💺 Exact seat selection
-* 🔒 Seat holding
-* 🚫 Double-booking prevention
-* 💳 Payment verification
-* 🎫 E-ticket generation
-* 📊 Admin control centre
-* 📈 Sales analytics
-
-**Stack:** `Next.js` `Node.js` `Express` `MongoDB`
-
-🔗 [View Repository](https://github.com/rimon213311004/TicketBus)
-
----
-
-## 📚 AssignmentHub
-
-**Academic assignment management platform for students, teachers and administrators.**
-
-* 👨‍🎓 Student management
-* 👨‍🏫 Teacher management
-* 📝 Assignment creation
-* 📤 Assignment submission
-* 📊 Marks & feedback
-* 🔐 Role-based access
-* 📖 Swagger API documentation
-* 🐳 Docker support
-
-**Stack:** `Next.js` `React` `TypeScript` `ASP.NET Core 8` `MongoDB` `Docker`
-
-🔗 [View Repository](https://github.com/rimon213311004/Assignment)
-
----
-
-## 💼 Job Tracking System
-
-**A full-stack job application tracking platform.**
-
-* 🔐 Secure authentication
-* 📝 Job application management
-* 🔎 Search & filtering
-* 📊 Application analytics
-* 📅 Monthly trends
-* 👀 Employer interest tracking
-* ⚡ Real-time updates
-* 🔄 Job data synchronisation
-
-**Stack:** `Next.js` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-🔗 [View Repository](https://github.com/rimon213311004/Jobtracking)
-
----
-
-## 🎓 UniHive
-
-**University-focused social networking platform.**
-
-* 👨‍🎓 Student / Faculty / Alumni roles
-* 👤 User profiles
-* 🤝 Follow system
-* 📝 Posts
-* 👥 Groups
-* 💬 Real-time chat
-* ☁️ Cloudinary media
-* ⚡ Socket.IO
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-🔗 [View Repository](https://github.com/rimon213311004/Unihive-main)
-
----
-
-## 📦 Rice Shop Management
-
-**Business inventory, sales and customer due management system.**
-
-* 📦 Inventory management
-* 💰 Sales management
-* 👥 Customer management
-* 💳 Due tracking
-* 📈 Business analytics
-* 📊 Recharts dashboards
-* 📄 PDF reports
-
-**Stack:** `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `Recharts` `jsPDF`
-
-🔗 [View Repository](https://github.com/rimon213311004/Shop)
-
----
-
-## 🍱 Hostel Meal Management
-
-**Full-stack hostel meal and monthly settlement management system.**
-
-* 🍚 Meal tracking
-* 💰 Deposit management
-* 🛒 Shopping cost tracking
-* 📊 Monthly settlement
-* 👥 Member management
-* 📈 Financial calculations
-* 🎨 Modern interactive UI
-
-**Stack:** `Next.js` `React` `Node.js` `Express` `MongoDB`
-
-🔗 [View Repository](https://github.com/rimon213311004/Meal)
-
----
-
-# 💡 Other Projects
-
-| Project              | Description                         | Technology          |
-| -------------------- | ----------------------------------- | ------------------- |
-| 🤖 Automation        | Job discovery & browser automation  | Python • Playwright |
-| 📱 Batch             | Mobile social/community application | React Native • Expo |
-| 💬 WhatsApp AI       | AI-powered WhatsApp automation      | Node.js • AI        |
-| 🌐 RimonTech         | Business/company website            | PHP • MySQL         |
-| 🏫 School Management | School administration system        | PHP • MySQL         |
-| 👥 SSC 2K18          | Alumni social platform              | Full Stack          |
-| 💊 Medicine Store    | Online medicine e-commerce          | Next.js • MongoDB   |
-
----
-
-# 📌 Development Philosophy
-
-```javascript
-const developer = {
+                    <p>- 🔐 Role-based access</p>
+                    <p>- 📖 Swagger API documentation</p>
+                    <p>- 🐳 Docker support</p>
+                    <div class="project-stack">
+                        <span class="stack-tag">Next.js</span>
+                        <span class="stack-tag">React</span>
+                        <span class="stack-tag">TypeScript</span>
+                        <span class="stack-tag">ASP.NET Core 8</span>
+                        <span class="stack-tag">MongoDB</span>
+                        <span class="stack-tag">Docker</span>
+                    </div>
+                    <a href="https://github.com/rimon213311004/Assignment" class="project-link" target="_blank">View Repository</a>
+                </div>
+
+                <div class="project-card" style="--card-index: 5;">
+                    <h3>💼 Job Tracking System</h3>
+                    <p>A full-stack job application tracking platform.</p>
+                    <p>- 🔐 Secure authentication</p>
+                    <p>- 📝 Job application management</p>
+                    <p>- 🔎 Search & filtering</p>
+                    <p>- 📊 Application analytics</p>
+                    <p>- 📅 Monthly trends</p>
+                    <p>- 👀 Employer interest tracking</p>
+                    <p>- ⚡ Real-time updates</p>
+                    <p>- 🔄 Job data synchronisation</p>
+                    <div class="project-stack">
+                        <span class="stack-tag">Next.js</span>
+                        <span class="stack-tag">Node.js</span>
+                        <span class="stack-tag">Express</span>
+                        <span class="stack-tag">MongoDB</span>
+                        <span class="stack-tag">Socket.IO</span>
+                    </div>
+                    <a href="https://github.com/rimon213311004/Jobtracking" class="project-link" target="_blank">View Repository</a>
+                </div>
+
+                <div class="project-card" style="--card-index: 6;">
+                    <h3>🎓 UniHive</h3>
+                    <p>University-focused social networking platform.</p>
+                    <p>- 👨‍🎓 Student / Faculty / Alumni roles</p>
+                    <p>- 👤 User profiles</p>
+                    <p>- 🤝 Follow system</p>
+                    <p>- 📝 Posts</p>
+                    <p>- 👥 Groups</p>
+                    <p>- 💬 Real-time chat</p>
+                    <p>- ☁️ Cloudinary media</p>
+                    <p>- ⚡ Socket.IO</p>
+                    <div class="project-stack">
+                        <span class="stack-tag">React</span>
+                        <span class="stack-tag">Node.js</span>
+                        <span class="stack-tag">Express</span>
+                        <span class="stack-tag">MongoDB</span>
+                        <span class="stack-tag">Socket.IO</span>
+                    </div>
+                    <a href="https://github.com/rimon213311004/Unihive-main" class="project-link" target="_blank">View Repository</a>
+                </div>
+
+                <div class="project-card" style="--card-index: 7;">
+                    <h3>📦 Rice Shop Management</h3>
+                    <p>Business inventory, sales and customer due management system.</p>
+                    <p>- 📦 Inventory management</p>
+                    <p>- 💰 Sales management</p>
+                    <p>- 👥 Customer management</p>
+                    <p>- 💳 Due tracking</p>
+                    <p>- 📈 Business analytics</p>
+                    <p>- 📊 Recharts dashboards</p>
+                    <p>- 📄 PDF reports</p>
+                    <div class="project-stack">
+                        <span class="stack-tag">Next.js</span>
+                        <span class="stack-tag">TypeScript</span>
+                        <span class="stack-tag">MongoDB</span>
+                        <span class="stack-tag">Tailwind CSS</span>
+                        <span class="stack-tag">Recharts</span>
+                        <span class="stack-tag">jsPDF</span>
+                    </div>
+                    <a href="https://github.com/rimon213311004/Shop" class="project-link" target="_blank">View Repository</a>
+                </div>
+
+                <div class="project-card" style="--card-index: 8;">
+                    <h3>🍱 Hostel Meal Management</h3>
+                    <p>Full-stack hostel meal and monthly settlement management system.</p>
+                    <p>- 🍚 Meal tracking</p>
+                    <p>- 💰 Deposit management</p>
+                    <p>- 🛒 Shopping cost tracking</p>
+                    <p>- 📊 Monthly settlement</p>
+                    <p>- 👥 Member management</p>
+                    <p>- 📈 Financial calculations</p>
+                    <p>- 🎨 Modern interactive UI</p>
+                    <div class="project-stack">
+                        <span class="stack-tag">Next.js</span>
+                        <span class="stack-tag">React</span>
+                        <span class="stack-tag">Node.js</span>
+                        <span class="stack-tag">Express</span>
+                        <span class="stack-tag">MongoDB</span>
+                    </div>
+                    <a href="https://github.com/rimon213311004/Meal" class="project-link" target="_blank">View Repository</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="other-projects">
+            <h2>💡 Other Projects</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Project</th>
+                        <th>Description</th>
+                        <th>Technology</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>🤖 Automation</td>
+                        <td>Job discovery & browser automation</td>
+                        <td>Python • Playwright</td>
+                    </tr>
+                    <tr>
+                        <td>📱 Batch</td>
+                        <td>Mobile social/community application</td>
+                        <td>React Native • Expo</td>
+                    </tr>
+                    <tr>
+                        <td>💬 WhatsApp AI</td>
+                        <td>AI-powered WhatsApp automation</td>
+                        <td>Node.js • AI</td>
+                    </tr>
+                    <tr>
+                        <td>🌐 RimonTech</td>
+                        <td>Business/company website</td>
+                        <td>PHP • MySQL</td>
+                    </tr>
+                    <tr>
+                        <td>🏫 School Management</td>
+                        <td>School administration system</td>
+                        <td>PHP • MySQL</td>
+                    </tr>
+                    <tr>
+                        <td>👥 SSC 2K18</td>
+                        <td>Alumni social platform</td>
+                        <td>Full Stack</td>
+                    </tr>
+                    <tr>
+                        <td>💊 Medicine Store</td>
+                        <td>Online medicine e-commerce</td>
+                        <td>Next.js • MongoDB</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="philosophy">
+            <h2>📌 Development Philosophy</h2>
+
+            <pre><code>const developer = {
   name: "Md. Raihan Rimon",
 
   focus: [
@@ -319,37 +171,199 @@ const developer = {
   ],
 
   goal: "Build software that solves real problems."
-};
-```
+};</code></pre>
+        </section>
 
----
+        <section id="connect" class="connect-section">
+            <h2>📫 Connect With Me</h2>
 
-# 📫 Connect With Me
+            <div class="connect-links">
+                <a href="https://www.linkedin.com/in/raihan-rimon-997969289/" target="_blank" class="connect-link">LinkedIn</a>
+                <a href="mailto:raihanrimon853@gmail.com" class="connect-link">Email</a>
+                <a href="https://instagram.com/raihanrimon.853" target="_blank" class="connect-link">Instagram</a>
+                <a href="https://github.com/rimon213311004" target="_blank" class="connect-link">GitHub</a>
+            </div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raihan-rimon-997969289/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  &nbsp;
-  <a href="mailto:raihanrimon853@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/raihanrimon.853" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-</p>
+            <p><strong>📧 Email:</strong> `raihanrimon853@gmail.com`</p>
+            <p><strong>💻 GitHub:</strong> <a href="https://github.com/rimon213311004">github.com/rimon213311004</a></p>
+        </section>
 
-📧 **Email:** `raihanrimon853@gmail.com`
+        <footer>
+            <h3>🚀 Building • Learning • Improving • Shipping</h3>
+            <p><i>"Turning ideas into real-world software, one project at a time."</i></p>
+        </footer>
+    </div>
 
-💻 **GitHub:** [github.com/rimon213311004](https://github.com/rimon213311004)
+    <a href="#" class="scroll-top" id="scrollTop">↑</a>
 
----
+    <script>
+        // Particle System
+        function createParticles() {
+            const container = document.getElementById('particles');
+            const particleCount = window.innerWidth > 768 ? 50 : 25;
 
-<h3 align="center">
-  🚀 Building • Learning • Improving • Shipping
-</h3>
+            for (let i = 0; i < particleCount; i++) {
+                setTimeout(() => {
+                    const particle = document.createElement('div');
+                    particle.className = 'particle';
+                    particle.style.left = Math.random() * 100 + '%';
+                    particle.style.animationDelay = Math.random() * 30 + 's';
+                    particle.style.animationDuration = 30 + Math.random() * 30 + 's';
+                    particle.style.width = Math.random() * 3 + 1 + 'px';
+                    particle.style.height = particle.style.width;
+                    container.appendChild(particle);
+                }, Math.random() * 5000);
+            }
+        }
 
-<p align="center">
-  <i>"Turning ideas into real-world software, one project at a time."</i>
-</p>
+        // Scroll to Top Button
+        function setupScrollTop() {
+            const scrollTop = document.getElementById('scrollTop');
+
+            window.addEventListener('scroll', () => {
+                if (window.pageYOffset > 500) {
+                    scrollTop.classList.add('active');
+                } else {
+                    scrollTop.classList.remove('active');
+                }
+            });
+
+            scrollTop.addEventListener('click', (e) => {
+                e.preventDefault();
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            });
+        }
+
+        // Smooth Scroll for Anchor Links
+        function setupSmoothScroll() {
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+        }
+
+        // Tech Card Animation
+        function setupTechCards() {
+            const techCards = document.querySelectorAll('.tech-card');
+
+            techCards.forEach((card, index) => {
+                card.style.setProperty('--card-index', index);
+
+                card.addEventListener('mouseenter', () => {
+                    // 3D tilt effect
+                    card.addEventListener('mousemove', (e) => {
+                        const rect = card.getBoundingClientRect();
+                        const x = e.clientX - rect.left;
+                        const y = e.clientY - rect.top;
+                        const centerX = rect.width / 2;
+                        const centerY = rect.height / 2;
+                        const rotateX = ((y - centerY) / centerY) * -10;
+                        const rotateY = ((x - centerX) / centerX) * 10;
+
+                        card.style.transform = `perspective(500px) translateZ(20px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale(1.05)`;
+                    });
+                });
+
+                card.addEventListener('mouseleave', () => {
+                    card.style.transform = 'perspective(500px) translateZ(10px)';
+                    card.removeEventListener('mousemove', null);
+                });
+            });
+        }
+
+        // Project Card Magnetic Effect
+        function setupProjectCards() {
+            const projectCards = document.querySelectorAll('.project-card');
+
+            projectCards.forEach(card => {
+                card.addEventListener('mouseenter', () => {
+                    card.classList.add('magnetic');
+                });
+
+                card.addEventListener('mouseleave', () => {
+                    card.classList.remove('magnetic');
+                });
+            });
+        }
+
+        // Intersection Observer for Animations
+        function setupIntersectionObserver() {
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.animation = 'none';
+                        entry.target.offsetHeight; // Trigger reflow
+                        entry.target.style.animation = 'fadeIn3D 1s ease-out forwards';
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('section').forEach(section => {
+                observer.observe(section);
+            });
+        }
+
+        // Initialize Everything
+        document.addEventListener('DOMContentLoaded', () => {
+            createParticles();
+            setupScrollTop();
+            setupSmoothScroll();
+            setupTechCards();
+            setupProjectCards();
+            setupIntersectionObserver();
+
+            // Add CSS animation dynamically for intersection observer
+            const style = document.createElement('style');
+            style.textContent = `
+                @keyframes fadeIn3D {
+                    to {
+                        opacity: 1;
+                        transform: translateY(0) rotateX(0);
+                    }
+                }
+            `;
+            document.head.appendChild(style);
+
+            // Auto-initialize animations for tech cards
+            setTimeout(() => {
+                setupTechCards();
+            }, 100);
+        });
+
+        // Handle Resize Events
+        let resizeTimeout;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(() => {
+                // Recreate particles on resize
+                const container = document.getElementById('particles');
+                container.innerHTML = '';
+                createParticles();
+            }, 500);
+        });
+
+        // Performance monitoring
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                console.log('3D Portfolio loaded successfully!');
+            }, 1000);
+        });
+    </script>
+</body>
+</html>
