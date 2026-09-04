@@ -1,36 +1,355 @@
-<h1 align="center">Hi 👋, I'm Md Raihan Rimon</h1>
-<h3 align="center">Software Developer | Next.js • React • Node.js • MongoDB | Full-Stack Web Solutions</h3>
+<h1 align="center">Hi 👋, I'm Md. Raihan Rimon</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimon213311004&label=Profile%20views&color=0e75b6&style=flat" alt="rimon213311004" /> </p>
+<h3 align="center">
+  Full-Stack Developer | Next.js • React • Node.js • TypeScript • MongoDB
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimon213311004" alt="rimon213311004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Findbd](https://github.com/rimon213311004/Findbd)
-
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://vercel.com/rimon5/portfoliodesign2/H62cz3jYjBJzFhfuFhA9EBUzUShY](https://vercel.com/rimon5/portfoliodesign2/H62cz3jYjBJzFhfuFhA9EBUzUShY)
-
-- 💬 Ask me about **Anyhting Project Related Questions**
-
-- 📫 How to reach me **raihanrimon853@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning real-world problems into full-stack web applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md raihan rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md raihan rimon" height="30" width="40" /></a>
-<a href="https://instagram.com/raihanrimon.853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raihanrimon.853" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/p8bW6neny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/p8bW6neny" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/rimon213311004">
+    <img src="https://komarev.com/ghpvc/?username=rimon213311004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/rimon213311004?tab=followers">
+    <img src="https://img.shields.io/github/followers/rimon213311004?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/rimon213311004?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-26%2B-blue?style=for-the-badge" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimon213311004&show_icons=true&locale=en&layout=compact" alt="rimon213311004" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimon213311004&show_icons=true&locale=en" alt="rimon213311004" /></p>
+I'm a **Full-Stack Developer** passionate about building modern, scalable and real-world web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimon213311004&" alt="rimon213311004" /></p>
+I enjoy transforming real-world problems into complete digital solutions — from **UI/UX and frontend development to backend architecture, databases, authentication, APIs and deployment**.
+
+* 🔭 Currently working on **FindBD**
+* 🌱 Currently learning **Cybersecurity & Modern Web Security**
+* 💻 Focused on **Next.js, React, Node.js, TypeScript & MongoDB**
+* ⚙️ Experienced with **REST APIs, JWT, Socket.IO, real-time systems and role-based authentication**
+* 🧠 Interested in **automation, scalable architecture and business-focused applications**
+* 📦 Building projects from **idea → development → deployment**
+* ⚡ Fun fact: **I enjoy turning real-world problems into full-stack web applications.**
+
+---
+
+## 🧑‍💻 What I Build
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                    FULL-STACK DEVELOPMENT                 │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  🎨 Modern UI/UX           ⚙️ Backend Systems             │
+│  Next.js • React            Node.js • Express             │
+│                                                           │
+│  🗄️ Database               🔐 Authentication              │
+│  MongoDB • MySQL            JWT • RBAC • Zod              │
+│                                                           │
+│  ⚡ Real-Time Systems       🤖 Automation                  │
+│  Socket.IO                  Playwright • Python           │
+│                                                           │
+│  🚀 Deployment             📊 Business Applications       │
+│  Vercel • Render            SaaS • Management Systems     │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,php,cs,dotnet" />
+</p>
+
+### Programming & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,docker,postman,linux,firebase,figma" />
+</p>
+
+### Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=threejs,opencv,tensorflow" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimon213311004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimon213311004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimon213311004&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rimon213311004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimon213311004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rimon213311004/rimon213311004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rimon213311004/rimon213311004/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🛡️ SafeCheck
+
+**Privacy-first personal safety, verification and incident reporting platform.**
+
+* 🔐 Privacy-focused architecture
+* 🧩 Shared validation contracts
+* ✅ Zod validation
+* 👤 Verification & review workflow
+* ⚖️ Appeal system
+* ⚡ Modern Next.js + Express architecture
+* 🗄️ MongoDB + Mongoose
+
+**Stack:** `Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Zod`
+
+🔗 [View Repository](https://github.com/rimon213311004/Safe)
+
+---
+
+## 🔎 FindBD
+
+**Lost & Found platform with an intelligent matching system.**
+
+* 🔍 Lost & Found matching
+* 📍 Location-based matching
+* 🏷️ Category & brand matching
+* 🎨 Colour matching
+* 📅 Date & time matching
+* 🧠 Weighted 100-point matching algorithm
+* ⚡ Full-stack architecture
+
+**Stack:** `Next.js` `TypeScript` `Express` `MongoDB`
+
+🔗 [View Repository](https://github.com/rimon213311004/Findbd)
+
+---
+
+## 🚌 TicketBus
+
+**Full-stack bus ticket booking and management platform.**
+
+* 🔎 Route search
+* 🚌 Bus/operator comparison
+* 💺 Exact seat selection
+* 🔒 Seat holding
+* 🚫 Double-booking prevention
+* 💳 Payment verification
+* 🎫 E-ticket generation
+* 📊 Admin control centre
+* 📈 Sales analytics
+
+**Stack:** `Next.js` `Node.js` `Express` `MongoDB`
+
+🔗 [View Repository](https://github.com/rimon213311004/TicketBus)
+
+---
+
+## 📚 AssignmentHub
+
+**Academic assignment management platform for students, teachers and administrators.**
+
+* 👨‍🎓 Student management
+* 👨‍🏫 Teacher management
+* 📝 Assignment creation
+* 📤 Assignment submission
+* 📊 Marks & feedback
+* 🔐 Role-based access
+* 📖 Swagger API documentation
+* 🐳 Docker support
+
+**Stack:** `Next.js` `React` `TypeScript` `ASP.NET Core 8` `MongoDB` `Docker`
+
+🔗 [View Repository](https://github.com/rimon213311004/Assignment)
+
+---
+
+## 💼 Job Tracking System
+
+**A full-stack job application tracking platform.**
+
+* 🔐 Secure authentication
+* 📝 Job application management
+* 🔎 Search & filtering
+* 📊 Application analytics
+* 📅 Monthly trends
+* 👀 Employer interest tracking
+* ⚡ Real-time updates
+* 🔄 Job data synchronisation
+
+**Stack:** `Next.js` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+🔗 [View Repository](https://github.com/rimon213311004/Jobtracking)
+
+---
+
+## 🎓 UniHive
+
+**University-focused social networking platform.**
+
+* 👨‍🎓 Student / Faculty / Alumni roles
+* 👤 User profiles
+* 🤝 Follow system
+* 📝 Posts
+* 👥 Groups
+* 💬 Real-time chat
+* ☁️ Cloudinary media
+* ⚡ Socket.IO
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+🔗 [View Repository](https://github.com/rimon213311004/Unihive-main)
+
+---
+
+## 📦 Rice Shop Management
+
+**Business inventory, sales and customer due management system.**
+
+* 📦 Inventory management
+* 💰 Sales management
+* 👥 Customer management
+* 💳 Due tracking
+* 📈 Business analytics
+* 📊 Recharts dashboards
+* 📄 PDF reports
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `Recharts` `jsPDF`
+
+🔗 [View Repository](https://github.com/rimon213311004/Shop)
+
+---
+
+## 🍱 Hostel Meal Management
+
+**Full-stack hostel meal and monthly settlement management system.**
+
+* 🍚 Meal tracking
+* 💰 Deposit management
+* 🛒 Shopping cost tracking
+* 📊 Monthly settlement
+* 👥 Member management
+* 📈 Financial calculations
+* 🎨 Modern interactive UI
+
+**Stack:** `Next.js` `React` `Node.js` `Express` `MongoDB`
+
+🔗 [View Repository](https://github.com/rimon213311004/Meal)
+
+---
+
+# 💡 Other Projects
+
+| Project              | Description                         | Technology          |
+| -------------------- | ----------------------------------- | ------------------- |
+| 🤖 Automation        | Job discovery & browser automation  | Python • Playwright |
+| 📱 Batch             | Mobile social/community application | React Native • Expo |
+| 💬 WhatsApp AI       | AI-powered WhatsApp automation      | Node.js • AI        |
+| 🌐 RimonTech         | Business/company website            | PHP • MySQL         |
+| 🏫 School Management | School administration system        | PHP • MySQL         |
+| 👥 SSC 2K18          | Alumni social platform              | Full Stack          |
+| 💊 Medicine Store    | Online medicine e-commerce          | Next.js • MongoDB   |
+
+---
+
+# 📌 Development Philosophy
+
+```javascript
+const developer = {
+  name: "Md. Raihan Rimon",
+
+  focus: [
+    "Full-Stack Development",
+    "Real-World Applications",
+    "Scalable Architecture",
+    "Modern UI/UX",
+    "Business Automation"
+  ],
+
+  approach: [
+    "Understand the problem",
+    "Design the solution",
+    "Build the product",
+    "Test the system",
+    "Deploy and improve"
+  ],
+
+  goal: "Build software that solves real problems."
+};
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raihan-rimon-997969289/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;
+  <a href="mailto:raihanrimon853@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/raihanrimon.853" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+</p>
+
+📧 **Email:** `raihanrimon853@gmail.com`
+
+💻 **GitHub:** [github.com/rimon213311004](https://github.com/rimon213311004)
+
+---
+
+<h3 align="center">
+  🚀 Building • Learning • Improving • Shipping
+</h3>
+
+<p align="center">
+  <i>"Turning ideas into real-world software, one project at a time."</i>
+</p>
